@@ -2,6 +2,10 @@
 
 Ce laboratoire a pour but la construction d’un site d’une entreprise de service qui respectera les principes de design présentés dans le livre Design of Everyday Things du Dr. Norman. Tels que nous avons vus dans les vidéos, ces principes sont : visibilité, rétroaction, potentialité, association, contraintes et cohérence.
 
+## Live preview
+
+https://github.com/Mousto097/SEG3525-Module4-Service
+
 ## Source
 
 This folder contains many elements adapted from this Bootstrap HTML template as found here: https://startbootstrap.com/templates/scrolling-nav/
