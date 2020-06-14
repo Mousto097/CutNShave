@@ -9,7 +9,7 @@
 } */
 
 section {
-  padding: 150px 0;
+  padding: 50px 0;
 }
 
 .carousel-item {
@@ -49,4 +49,31 @@ body {
 .bg-dark,
 .table-dark {
   background-color: #000000 !important;
+}
+
+.custom-color {
+  color: #fff;
+  background-color: #000000;
+  border-color: #000000;
+}
+
+.custom-color:hover {
+  color: #ddc686;
+}
+
+.bg-light-custom {
+  background-color: #ddc686 !important;
+}
+
+.card-header-custom {
+  background-color: #000000;
+  border-color: #000000;
+}
+
+.card-header-custom a {
+  color: #fff;
+}
+
+.card-header-custom a:hover {
+  color: #ddc686;
 }
